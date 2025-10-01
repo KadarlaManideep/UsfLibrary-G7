@@ -21,6 +21,7 @@ namespace UsfLibrary_G7.Models
             AvailableCopies = availableCopies;
         }
 
+
         // Required by spec
         public bool BorrowBook()
         {
